@@ -19,4 +19,4 @@ We deliver robust, highly scalable software solutions for businesses and users, 
 - **Business Inquiries:** idris.ghamid@gmail.com
 
 ---
-*© 2026 IDRISIUM Corp. Designed for Performance.*
+*© 2026 IDRISIUM Corp.*
