@@ -14,6 +14,7 @@ We deliver robust, highly scalable software solutions for businesses and users, 
 
 ### 📬 Connect with Us
 - **Official Website:** [idrisium.linkpc.net](http://idrisium.linkpc.net/)
+- **Official Account on LinkedIn:** [IDRISIUM-Corp](https://www.linkedin.com/company/idrisium-corp)
 - **Founder & CEO:** [Idris Ghamid on LinkedIn](https://www.linkedin.com/in/idris-ghamid/)
 - **Business Inquiries:** idris.ghamid@gmail.com
 
