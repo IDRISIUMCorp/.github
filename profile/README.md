@@ -2,7 +2,7 @@
 
 **Engineering Digital Masterpieces.**
 
-Founded and led by Software Architect **[Idris Ghamid | ادريس غامد](https://github.com/idris-ghamid)**, IDRISIUM Corp is an elite software development agency dedicated to crafting premium digital experiences. We bridge the gap between complex engineering and minimalist, distraction-free design.
+Founded and led by Software Architect **[idris ghamid | ادريس غامد](https://github.com/idris-ghamid)**, IDRISIUM Corp is an elite software development agency dedicated to crafting premium digital experiences. We bridge the gap between complex engineering and minimalist, distraction-free design.
 
 ### 🌐 What We Build
 We deliver robust, highly scalable software solutions for businesses and users, completely ditching the "one size fits all" approach. Our core focus areas include:
@@ -15,7 +15,7 @@ We deliver robust, highly scalable software solutions for businesses and users, 
 ### 📬 Connect with Us
 - **Official Website:** [idrisium.linkpc.net](http://idrisium.linkpc.net/)
 - **Official Account on LinkedIn:** [IDRISIUM-Corp](https://www.linkedin.com/company/idrisium-corp)
-- **Founder & CEO:** [Idris Ghamid on LinkedIn](https://www.linkedin.com/in/idris-ghamid/)
+- **Founder & CEO:** [idris ghamid on LinkedIn](https://www.linkedin.com/in/idris-ghamid/)
 - **Business Inquiries:** idris.ghamid@gmail.com
 
 ---
