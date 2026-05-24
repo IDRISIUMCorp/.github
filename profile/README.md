@@ -19,4 +19,36 @@ We deliver robust, highly scalable software solutions for businesses and users, 
 - **Business Inquiries:** idris.ghamid@gmail.com
 
 ---
+
+**all developer accounts**
+
+- **LinkedIn**  
+  https://www.linkedin.com/in/idris-ghamid
+
+- **Snapchat**  
+  https://www.snapchat.com/add/idris.ghamid
+
+- **Instagram**  
+  https://www.instagram.com/idris.ghamid
+
+- **Threads**  
+  https://www.threads.com/@idris.ghamid
+
+- **TikTok**  
+  https://www.tiktok.com/@idris.ghamid
+
+- **Reddit**  
+  https://www.reddit.com/u/IdrisGhamid
+
+- **X (Twitter)**  
+  https://x.com/IdrisGhamid
+
+- **Telegram**  
+  https://t.me/IDRV72
+
+- **Pinterest**
+  https://www.pinterest.com/idrisghamid
+
+
+---
 *© 2026 IDRISIUM Corp.*
