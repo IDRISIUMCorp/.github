@@ -1,32 +1,60 @@
 # IDRISIUM Corp
 
-**Engineering Digital Masterpieces.**
+**Engineering digital products with clarity, performance, and purpose.**
 
-Founded and led by Software Architect **[idris ghamid | ادريس غامد](https://github.com/idris-ghamid)**, IDRISIUM Corp is an elite software development agency dedicated to crafting premium digital experiences. We bridge the gap between complex engineering and minimalist, distraction-free design.
+Founded and led by software architect **[Idris Ghamid](https://github.com/idris-ghamid)**, IDRISIUM Corp builds modern software systems that combine strong engineering, clean architecture, and minimalist design.
 
-### 🌐 What We Build
-We deliver robust, highly scalable software solutions for businesses and users, completely ditching the "one size fits all" approach. Our core focus areas include:
+---
 
-- **Advanced Mobile Ecosystems:** Building native-grade applications using **Flutter** and **Kotlin** for deep Android system integrations.
-- **Modern Web Platforms:** Crafting blazing-fast, responsive web applications using **React, Next.js**, and core web technologies (**HTML, CSS, JavaScript**).
-- **AI-Powered Solutions:** Seamlessly embedding advanced Artificial Intelligence (LLMs, Automation) into practical, everyday software.
-- **Enterprise Standards:** Strict adherence to Clean Architecture, robust state management, and scalable backends.
+## What We Build
 
-### 📬 Connect with Us
+We design and develop reliable, scalable software solutions for mobile, web, and AI-driven products.
+
+### Core Focus Areas
+
+- **Mobile Engineering**  
+  Native-feel applications built with **Flutter** and **Kotlin**.
+
+- **Web Development**  
+  Fast, responsive web platforms built with **React**, **Next.js**, and core web technologies.
+
+- **AI Integration**  
+  Practical AI features powered by **LLMs**, automation workflows, and intelligent product design.
+
+- **Architecture & Scalability**  
+  Clean Architecture, maintainable codebases, and systems designed for long-term growth.
+
+- **Creative & Interactive Work**  
+  Game development and visual production when projects call for it.
+
+---
+
+## Our Approach
+
+- Build for real users, not just demos
+- Keep systems clean and maintainable
+- Prioritize speed, usability, and scalability
+- Integrate AI in ways that actually add value
+- Favor clarity over unnecessary complexity
+
+---
+
+## Connect
+
 - **Official Website:** [idrisium.linkpc.net](http://idrisium.linkpc.net/)
-- **Official Account on LinkedIn:** [IDRISIUM-Corp](https://www.linkedin.com/company/idrisium-corp)
-- **Founder & CEO:** [idris ghamid on LinkedIn](https://www.linkedin.com/in/idris-ghamid/)
+- **Official LinkedIn Page:** [IDRISIUM Corp](https://www.linkedin.com/company/idrisium-corp)
+- **Founder:** [Idris Ghamid on LinkedIn](https://www.linkedin.com/in/idris-ghamid/)
 - **Business Inquiries:** idris.ghamid@gmail.com
 
 ---
 
-**all developer accounts**
+## All Developer Accounts
 
 - **LinkedIn**  
   https://www.linkedin.com/in/idris-ghamid
 
-- **Snapchat**  
-  https://www.snapchat.com/add/idris.ghamid
+- **X (Twitter)**  
+  https://x.com/IdrisGhamid
 
 - **Instagram**  
   https://www.instagram.com/idris.ghamid
@@ -40,15 +68,15 @@ We deliver robust, highly scalable software solutions for businesses and users, 
 - **Reddit**  
   https://www.reddit.com/u/IdrisGhamid
 
-- **X (Twitter)**  
-  https://x.com/IdrisGhamid
-
 - **Telegram**  
   https://t.me/IDRV72
 
-- **Pinterest**
+- **Pinterest**  
   https://www.pinterest.com/idrisghamid
 
+- **Snapchat**
+https://www.snapchat.com/add/idris.ghamid
 
 ---
+
 *© 2026 IDRISIUM Corp.*
