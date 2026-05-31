@@ -44,6 +44,7 @@ We design and develop reliable, scalable software solutions for mobile, web, and
 - **Official Website:** [idrisium.linkpc.net](http://idrisium.linkpc.net/)
 - **Official LinkedIn Page:** [IDRISIUM Corp](https://www.linkedin.com/company/idrisium-corp)
 - **Founder:** [Idris Ghamid on LinkedIn](https://www.linkedin.com/in/idris-ghamid/)
+- **FounderSite:** [idris ghamid](https://idris-ghamid.linkpc.net/)
 - **Business Inquiries:** idris.ghamid@gmail.com
 
 ---
