@@ -51,7 +51,7 @@ We design and develop reliable, scalable software solutions for mobile, web, and
 
 ## All Developer Accounts
 
-* MySite: [https://idris-ghamid.linkpc.net/](https://idris-ghamid.linkpc.net/)
+* MySite: [https://idris-ghamid.linkpc.net/](https://idris-ghamid.vercel.app/)
 * LinkedIn: [https://www.linkedin.com/in/idris-ghamid](https://www.linkedin.com/in/idris-ghamid)
 * GitHub: [https://github.com/idris-ghamid](https://github.com/idris-ghamid)
 * GitLab: [https://gitlab.com/idris-ghamid](https://gitlab.com/idris-ghamid)
@@ -68,6 +68,9 @@ We design and develop reliable, scalable software solutions for mobile, web, and
 * Pinterest: [https://www.pinterest.com/idrisghamid](https://www.pinterest.com/idrisghamid)
 * Telegram: [https://t.me/IDRV72](https://www.google.com/search?q=https%3A%2F%2Ft.me%2FIDRV72)
 * Gravatar: [https://gravatar.com/idrisghamid](https://gravatar.com/idrisghamid)
+* CodeSandBox: https://codesandbox.io/u/idris-ghamid
+* CodePen: https://codepen.io/idris-ghamid
+* StackOverFlow: https://stackoverflow.com/users/32990054/idris-ghamid
 
 ---
 
